@@ -24,6 +24,7 @@ int mipmap ic_search 0x0
 int string friday 0x0
 int string monday 0x0
 int string saturday 0x0
+int string send 0x0
 int string sunday 0x0
 int string thursday 0x0
 int string tuesday 0x0

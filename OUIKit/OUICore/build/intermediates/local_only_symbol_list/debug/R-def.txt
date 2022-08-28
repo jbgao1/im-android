@@ -26,6 +26,7 @@ mipmap ic_search
 string friday
 string monday
 string saturday
+string send
 string sunday
 string thursday
 string tuesday

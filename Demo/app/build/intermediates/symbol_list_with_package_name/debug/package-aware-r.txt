@@ -1889,7 +1889,6 @@ id clip_vertical
 id clockwise
 id collapseActionView
 id confirm_button
-id confrim_btn
 id container
 id content
 id content2
@@ -1941,7 +1940,6 @@ id endToStart
 id end_padder
 id enterAlways
 id enterAlwaysCollapsed
-id et_input_message
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -2115,8 +2113,6 @@ id right
 id rightToLeft
 id right_icon
 id right_side
-id rl_inputdlg_view
-id rl_outside_view
 id root
 id rounded
 id row_index_key
@@ -2347,7 +2343,6 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
-layout dialog_input_edit
 layout fragment_contact_list
 layout layout_add_action
 layout layout_contact_item
