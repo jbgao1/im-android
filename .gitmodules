@@ -1,0 +1,3 @@
+[submodule "Open-IM-SDK-Android"]
+	path = Open-IM-SDK-Android
+	url = git@github.com:jbgao1/Open-IM-SDK-Android.git
